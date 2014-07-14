@@ -62,7 +62,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BindingResource.cs" />
     <Compile Include="MvxGroupListView.cs" />
     <Compile Include="MvxGroupListViewAdapter.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
